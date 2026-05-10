@@ -30,7 +30,7 @@ Complete thermal mod for Zotac RTX 3090 Trinity:
 
 > [**Honeywell PTM7950**](https://www.honeywell.com.cn/content/dam/honcn/documents/advanced-materials/electrical-materials/thermal-interface-materials/ptm7000-series/PTM7950-TDS-EN%202022.12.7.pdf)
 
-![PTM7950](Honeywell_PTM7950_specs.avif) | ![PTM7950](Honeywell_PTM7950.avif)
+![PTM7950](/img/Honeywell_PTM7950_specs.avif) | ![PTM7950](/img/Honeywell_PTM7950.avif)
 ---|---
 
 **Why 100x100mm sheets instead of 85x45mm?**
@@ -41,7 +41,7 @@ Complete thermal mod for Zotac RTX 3090 Trinity:
 
 > [**Fehonda 15W/mk thermal pad**](https://www.fehonda.com/thermal-pad/15w-mk-fehonda-thermal-pad)
 
-![PTM7950](fehonda.webp)
+![PTM7950](/img/fehonda.webp)
 
 | Parameters | Unit | Regular | Low permeation Oil | Test standard
 |---|---|---|---|---|
@@ -66,13 +66,13 @@ Try to buy both 2.0mm and 3.0mm from the same brand to ensure consistent compres
 
 #### Mod
 
-![heatsink-ext](2619.7.0553.png)
+![heatsink-ext](/img/2619.7.0553.png)
 
-![heatsink-ext](2619.7.0553_1.png)
+![heatsink-ext](/img/2619.7.0553_1.png)
 
 This fan bracket mod kit Allows for the use of two 120mm x 25mm fans, with mounting hardware that includes 8x 30mm M4 screws. Includes a PWM 4-pin fan adapter Y cable that uses a micro 4-pin connector designed to connect to the fan headers on the video card. 
 
-![deshroud](./il_1588xN.4188446810_4xs8.webp) | ![deshroud](./il_1588xN.7603510144_p1te.webp)
+![deshroud](/img/il_1588xN.4188446810_4xs8.webp) | ![deshroud](/img/il_1588xN.7603510144_p1te.webp)
 ---|---
 
 #### Fans
@@ -116,7 +116,7 @@ Optionally, add fan mounting + dust filter.
 
 > [**Extruded Aluminum Heatsink Radiator** with 3M Tape (P9JB)](https://fr.aliexpress.com/item/1005007090772998.html)
 
-| ![heatsink-ext](2619.7.0439.png) | ![heatsink-dims](2619.7.0436.png) |
+| ![heatsink-ext](/img/2619.7.0439.png) | ![heatsink-dims](/img/2619.7.0436.png) |
 |---|---|
 
 **Mounting method for heatsinks:**
@@ -138,7 +138,7 @@ Recommended:
 
 See [Fans](#fans) section above for a discussion about choosing 120mm fans. The same applies here, as confirmed by Leo (Brave Search AI).
 
-| ![arctic-p9](./arctic-p9.jpg) | ![noctua-nf-a9](./noctua-nf-a9-pwm.jpg) |
+| ![arctic-p9](/img/arctic-p9.jpg) | ![noctua-nf-a9](/img/noctua-nf-a9-pwm.jpg) |
 |---|---|
 
 **Mounting method for fans:**
@@ -213,15 +213,15 @@ Make sure:
     
 1. **Cooler**: 6 screws
 
-    ![cooler-screws](2619.7.0337.png)
+    ![cooler-screws](/img/2619.7.0337.png)
 
     Unplug 2 fan cables (black, white) + 1 LED cable (black).
 
-    ![cooler-wires](2619.7.0340.png)
+    ![cooler-wires](/img/2619.7.0340.png)
     
 2. **Backplate** – 6 screws + 1 LED cable (white).
 
-    ![back-screws](2619.7.0341.png)
+    ![back-screws](/img/2619.7.0341.png)
 
 3. Clean all old thermal material (thermal paste and pads) using isopropyl alcohol wipes.
 
@@ -234,7 +234,7 @@ Make sure:
 
 Place on all 12 backside VRAM chips.
 
-![vram-back](2619.7.0343.png)
+![vram-back](/img/2619.7.0343.png)
 
 ### Remove pads liner ⚠️
 
@@ -248,20 +248,20 @@ Tighten evenly.
 
 Place on all 12 front VRAM chips + small Junction at the top (near white fan header).
 
-![vram-front](2619.7.0344.png)
+![vram-front](/img/2619.7.0344.png)
 
 ### Cut PTM7950 ✂️
 
 Aim for an exact 26mm x 24mm rectangle (slightly larger rather than smaller).
 
-![Cut PTM7950 1](2619.7.0410.png) | ![Cut PTM7950 2](2619.7.0411.png)
+![Cut PTM7950 1](/img/2619.7.0410.png) | ![Cut PTM7950 2](2619.7.0411.png)
 ---|---
 
 ### Apply PTM7950 on GPU die 📐
 
-![apply-PTM7950-1](2619.7.0402.png) | ![apply-PTM7950-2](2619.7.0402_2.png) | ![apply-PTM7950-3](2619.7.0402_1.png)
+![apply-PTM7950-1](/img/2619.7.0402.png) | ![apply-PTM7950-2](/img/2619.7.0402_2.png) | ![apply-PTM7950-3](/img/2619.7.0402_1.png)
 ---|---|---
-![apply-PTM7950-4](2619.7.0405.png) | ![apply-PTM7950-7](2619.7.0414.png) | ![apply-PTM7950-6](2619.7.0408.png)
+![apply-PTM7950-4](/img/2619.7.0405.png) | ![apply-PTM7950-7](/img/2619.7.0414.png) | ![apply-PTM7950-6](/img/2619.7.0408.png)
 
 ### Consider deshrouding now ❔
 
@@ -278,14 +278,14 @@ On VRAM thermal pads and GPU die.
 
 - Make sure all plugs are connected.  
 
-    ![plugs](2619.7.0345.png)
+    ![plugs](/img/2619.7.0345.png)
 
 - **Place washers**: one nylon washer goes **on the PCB, through the backplate** at each of the 4 screw holes that hold the PCB to the heatsink core.  
 This lets screws not bottom out before applying target clamping pressure (30~40 psi).
 
 - **Torque screws evenly in cross-pattern**. Do not overtighten.
 
-    ![cooler-reattach](2619.7.0346.png)
+    ![cooler-reattach](/img/2619.7.0346.png)
 
 ### Install deshroud mod 🔩
 
@@ -293,15 +293,15 @@ This lets screws not bottom out before applying target clamping pressure (30~40 
 
 1. Install brackets
 
-    ![deshroud-brackets](./il_1588xN.4188462840_k70j.webp)
+    ![deshroud-brackets](/img/il_1588xN.4188462840_k70j.webp)
 
 2. Install fans
 
-    ![deshroud-fans](./il_1588xN.4236126167_i9tr.webp)
+    ![deshroud-fans](/img/il_1588xN.4236126167_i9tr.webp)
 
 3. Install cover
 
-    ![deshroud-cover](./il_1588xN.4236126215_1c7k.webp)
+    ![deshroud-cover](/img/il_1588xN.4236126215_1c7k.webp)
 
 ### Mount backplate heatsinks 📐
 
