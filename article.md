@@ -175,7 +175,7 @@ See [Fans](#fans) section above for a discussion about choosing 120mm fans. The 
 | 1 | **Fehonda 15W/mk thermal pad** 100×100×**3.0** mm | 21.59 | [Ali](https://fr.aliexpress.com/item/1005005899514989.html)  | 
 || **—— 2. Deshroud mod ——**
 | 1 | Deshroud mod 2×120mm fans [by Osserva] | 31.14 + 14.10 | [Etsy](https://www.etsy.com/listing/1311068645/)             | 
-| 2 | Arctic P12 PWM |  | 🏡
+| 2 | Arctic P12 Max | home supply | 🏡
 || **—— 3. Backplate cooling ——**
 | 8 | 40×40×20mm aluminum heatsink | 12.38 |  [Ali](https://www.aliexpress.com/item/1005007090772998.html) | 
 | 1 | Arctic P9 PWM PST | 10.49 | [Amzn](https://www.amazon.fr/-/en/dp/B09VGR175K)             | 
@@ -190,7 +190,9 @@ See [Fans](#fans) section above for a discussion about choosing 120mm fans. The 
 ||| **TOTAL**
 | **1~2** | **RTX 3090 Zotac Complete Thermal Mod** | **172.32** |
 
-We have spare material for another repaste (in 3-5 years) or one more GPU (except the deshroud mod).
+We have spare material for another full mod (in 3-5 years) or another GPU.*
+
+\* *Except the deshroud mod, depends on brand/SKU for VRAM pads height and die size.*
 
 ---
 
