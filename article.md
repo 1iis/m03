@@ -103,7 +103,7 @@ You may combine all: [P12 Pro PST CO](https://www.arctic.de/us/P12-Pro-PST-CO/AC
 
 Optionally, add fan mounting + dust filter.
 
-#### Backplate Heatsinks
+#### Heatsinks | total ~80×80×20mm
 
 > [**Extruded Aluminum Heatsink Radiator** with 3M Tape (P9JB)](https://fr.aliexpress.com/item/1005007090772998.html)
 
