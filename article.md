@@ -82,7 +82,8 @@ Recommended:
 **Luxury elite**: ~\$**35** (at least!), great perf, lowest noise.
 
 > [**Tom's Hardware direct 1:1 comparison with the Arctic P12 Pro**](https://www.tomshardware.com/pc-components/case-fans/pc-fan-faceoff-can-arctics-usd7-p12-pro-compete-with-the-usd40-noctua-nf-a12x25-g2)  
-> *"the P12 pro gives you almost Noctua-level performance at medium speeds, obscene power at its full duty with over 3000 RPM to play with"*
+> *"the P12 pro gives you almost Noctua-level performance at medium speeds,
+> obscene power at its full duty with over 3000 RPM to play with"*
 
 My personal experience with such a choice is that you want Noctua for silent 24/7 duty. The point is to bring down what will become the permanent noise level of your room. That's for case fans and CPU, generally. For the GPU, it depends on what kind of workload you're going to put on it:
 
