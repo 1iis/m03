@@ -343,7 +343,7 @@ This lets screws not bottom out before applying target clamping pressure (30~40 
 > src: https://search.brave.com/search?q=thermal+pads+height+for+rtx+3090+front+and+back&conversation=09100d530fc9b9e982e22c56903df607bbe7&summary=1
 
 > [!WARNING]
-> This section for convenience, from AI.
+> This section for convenience, from AI.  
 > ⚠️ **Double-check for your brand/model before buying!!** ⚠️
 
 Thermal pad thickness for the NVIDIA RTX 3090 varies significantly by manufacturer model, with the **Founders Edition** being the most standardized.
