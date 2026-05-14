@@ -116,7 +116,7 @@ Optionally, add fan mounting + dust filter.
 1. Leave 2-3mm gap between each heatsink for airflow.
 1. Press firmly, let cure 24 hours before fan installation.
 
-#### Fan
+#### Fan | 92mm
 
 Recommended:
 
