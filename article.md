@@ -79,7 +79,7 @@ Recommended:
 **Best value**: ~\$**10**, best perf, silent enough but louder than Noctua.
 
 - [**Arctic P12 Pro PST**](https://www.arctic.de/us/P12-Pro-PST/ACFAN00306A) (successor of the P12 Max)  
-**Best value**: ~\$**10**, best perf, silent enough but louder than Noctua.
+**Best performance**: ~\$**12**, best perf, loud at full speed (rather silent until 50~60% or so)
 
 - [**Noctua NF-A12x25 G2 PWM**](https://www.noctua.at/en/products/nf-a12x25-g2-pwm) | *Note: the SKU [**Sx2-PP**](https://www.noctua.at/en/products/nf-a12x25-g2-pwm-sx2-pp) is a pack of two starting at ~\$65.*  
 **Luxury elite**: ~\$**35** (at least!), great perf, lowest noise.
