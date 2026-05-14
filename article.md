@@ -328,11 +328,13 @@ This lets screws not bottom out before applying target clamping pressure (30~40 
 
 ## ✅ Expected Results
 
-| Metric | Before (stock) | After (modded) |
-|---|---|---|
-| GPU core temp | 72-78°C | 65-72°C |
-| GPU hotspot | 85-95°C | 75-85°C |
-| VRAM junction | 104-110°C | **78-92°C** |
+Measure before / after / in 6 months.
+
+| Metric | Before (stock) | After (modded) | +6 mo.
+|---|---|---|---|
+| GPU core temp | ?°C | ?°C | ?°C |
+| GPU hotspot | ?°C | ?C | ?°C |
+| VRAM junction | ?°C | ?°C | ?°C |
 
 ---
 
