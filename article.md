@@ -90,7 +90,7 @@ Recommended:
 My personal experience with such a choice is that you want Noctua for silent 24/7 duty. The point is to bring down what will become the permanent noise level of your room. That's for case fans and CPU, generally. For the GPU, it depends on what kind of workload you're going to put on it:
 
 - Half-permanent long-lasting load requiring above 50% fan speed: go Noctua if noise bothers you.
-- Spiky, irregular activity, on-demand load: you may cut fan budget in half or more by buying Arctic, for half or even a third of the price, and get equal or better performance (depending on whether you choose regular PWM, or Pro/Max).
+- Spiky, irregular activity, on-demand load: you may cut fan budget in half or more by buying Arctic, and get equal or better performance (depending on whether you choose regular PWM, or Pro/Max).
 
 For Arctic SKUs:
 For daisy-chain capability, take **PST** SKUs.  
