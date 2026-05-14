@@ -33,9 +33,9 @@ Complete thermal mod for Zotac RTX 3090 Trinity:
 ![PTM7950](/img/Honeywell_PTM7950_specs.avif) | ![PTM7950](/img/Honeywell_PTM7950.avif)
 ---|---
 
-#### VRAM Thermal pads: Fehonda 15 W/mK soft
+#### VRAM | Thermal pads
 
-> [**Fehonda 15W/mk thermal pad**](https://www.fehonda.com/thermal-pad/15w-mk-fehonda-thermal-pad)
+> [**Fehonda 15W/mk soft thermal pad**](https://www.fehonda.com/thermal-pad/15w-mk-fehonda-thermal-pad)
 
 ![PTM7950](/img/fehonda.webp)
 
@@ -92,7 +92,7 @@ For daisy-chain capability, take "PST" SKUs.
 For continuous operation, take the CO variants (dual ball bearing: louder but fan lasts longer).  
 You may combine all: [P12 Pro PST CO](https://www.arctic.de/us/P12-Pro-PST-CO/ACFAN00312A).
 
-### ♨️ 3. Backplate Cooling Assembly
+### ♨️ 3. Backplate Cooling
 
 | Component | Product | Specs | Quantity |
 |---|---|---|---|
