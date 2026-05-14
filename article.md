@@ -81,19 +81,18 @@ Recommended:
 - [**Noctua NF-A12x25 G2 PWM**](https://www.noctua.at/en/products/nf-a12x25-g2-pwm) | *Note: the SKU [**Sx2-PP**](https://www.noctua.at/en/products/nf-a12x25-g2-pwm-sx2-pp) is a pack of two starting at ~\$65.*  
 **Luxury elite**: ~\$**35** (at least!), great perf, lowest noise.
 
-> [**Tom's Hardware direct 1:1 comparison with the Arctic P12 Pro**](https://www.tomshardware.com/pc-components/case-fans/pc-fan-faceoff-can-arctics-usd7-p12-pro-compete-with-the-usd40-noctua-nf-a12x25-g2)  
-> *"the P12 pro gives you almost Noctua-level performance at medium speeds,
-> obscene power at its full duty with over 3000 RPM to play with"*
-
 My personal experience with such a choice is that you want Noctua for silent 24/7 duty. The point is to bring down what will become the permanent noise level of your room. That's for case fans and CPU, generally. For the GPU, it depends on what kind of workload you're going to put on it:
 
 - Half-permanent long-lasting load requiring above 50% fan speed: go Noctua if noise bothers you.
 - Spiky, irregular activity, on-demand load: you may cut fan budget in half or more by buying Arctic, for half or even a third of the price, and get equal or better performance (depending on whether you choose regular PWM, or Pro/Max).
 
-For the highest performance, see the [P12 Pro PST](https://www.arctic.de/us/P12-Pro-PST/ACFAN00306A) (successor of the P12 Max).  
+For the highest performance, take the [P12 Pro PST](https://www.arctic.de/us/P12-Pro-PST/ACFAN00306A) (successor of the P12 Max).  
 For daisy-chain capability, take "PST" SKUs.  
 For continuous operation, take the CO variants (dual ball bearing: louder but fan lasts longer).  
 You may combine all: [P12 Pro PST CO](https://www.arctic.de/us/P12-Pro-PST-CO/ACFAN00312A).
+
+> *"the P12 pro gives you almost Noctua-level performance at medium speeds,  
+> obscene power at its full duty with over 3000 RPM to play with"* — [**Tom's Hardware**](https://www.tomshardware.com/pc-components/case-fans/pc-fan-faceoff-can-arctics-usd7-p12-pro-compete-with-the-usd40-noctua-nf-a12x25-g2)  
 
 ### ♨️ 3. Backplate Cooling
 
