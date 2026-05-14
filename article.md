@@ -92,7 +92,7 @@ My personal experience with such a choice is that you want Noctua for silent 24/
 - Half-permanent long-lasting load requiring above 50% fan speed: go Noctua if noise bothers you.
 - Spiky, irregular activity, on-demand load: you may cut fan budget in half or more by buying Arctic, and get equal or better performance (depending on whether you choose regular PWM, or Pro/Max).
 
-For Arctic SKUs:
+For Arctic SKUs:  
 For daisy-chain capability, take **PST** SKUs.  
 For continuous operation, take the **CO** variants (dual ball bearing: louder but fan lasts longer).  
 You may combine all: [P12 Pro **PST CO**](https://www.arctic.de/us/P12-Pro-PST-CO/ACFAN00312A).  
