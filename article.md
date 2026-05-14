@@ -33,10 +33,6 @@ Complete thermal mod for Zotac RTX 3090 Trinity:
 ![PTM7950](/img/Honeywell_PTM7950_specs.avif) | ![PTM7950](/img/Honeywell_PTM7950.avif)
 ---|---
 
-**Why 100x100mm sheets instead of 85x45mm?**
-- Mistakes allowance (~20% waste)
-- Leftover for second GPU 
-
 #### VRAM Thermal pads: Fehonda 15 W/mK soft
 
 > [**Fehonda 15W/mk thermal pad**](https://www.fehonda.com/thermal-pad/15w-mk-fehonda-thermal-pad)
@@ -54,8 +50,6 @@ Complete thermal mod for Zotac RTX 3090 Trinity:
 | Silicone Permeability | **%**       | ≤3 | ≤1 | 125°C/72h（compression50%） |
 | Temperature Range     | **℃**      | -40~180 | -40~180 | / |
 | Flame Rating          | **/**       | V-0 | V-0 | UL 94 |
-
-Try to buy both 2.0mm and 3.0mm from the same brand to ensure consistent compressibility.
 
 ### 🌬️ 2. Deshroud Mod | Dual 120mm Fan
 
@@ -88,7 +82,7 @@ Recommended:
 > [**Tom's Hardware direct 1:1 comparison with the Arctic P12 Pro**](https://www.tomshardware.com/pc-components/case-fans/pc-fan-faceoff-can-arctics-usd7-p12-pro-compete-with-the-usd40-noctua-nf-a12x25-g2)  
 > *"the P12 pro gives you almost Noctua-level performance at medium speeds, obscene power at its full duty with over 3000 RPM to play with"*
 
-My personal experience with such a choice is that you want Noctua for the always-on, 24/7 duty. The point is to bring down what will become the permanent noise level of your room. That's for case fans and CPU, generally. For the GPU, it depends on what kind of workload you're going to put on it:
+My personal experience with such a choice is that you want Noctua for silent 24/7 duty. The point is to bring down what will become the permanent noise level of your room. That's for case fans and CPU, generally. For the GPU, it depends on what kind of workload you're going to put on it:
 
 - Half-permanent long-lasting load requiring above 50% fan speed: go Noctua if noise bothers you.
 - Spiky, irregular activity, on-demand load: you cut fan budget in half or more by buying Arctic, for half or even a third of the price, and get equal or better performance (depending on whether you choose regular PWM or Pro).
@@ -106,11 +100,6 @@ You may combine all: [P12 Pro PST CO](https://www.arctic.de/us/P12-Pro-PST-CO/AC
 | **Fan** | **Arctic P9 PWM PST**<br>92 × 25mm thick | Airflow: 65,97 m³/h<br>Noise: 39.8 dB | **1 unit** |
 
 Optionally, add fan mounting + dust filter.
-
-| Component | Product | Specs | Quantity |
-|---|---|---|---|
-| **Fan screws** | M3 x 20-25mm pan-head screws + nuts | Stainless steel | **4 sets** |
-| **Fan grille** | 92mm wire fan grille (optional) | Chrome/black | **1 unit** |
 
 #### Backplate Heatsinks
 
@@ -143,7 +132,7 @@ See [Fans](#fans) section above for a discussion about choosing 120mm fans. The 
 
 **Mounting method for fans:**
 1. Drill or punch four holes through the backplate (if not pre-drilled) in a 92mm fan mounting pattern (standard 82.5mm screw spacing).
-1. Use M3 screws through backplate → through heatsink grid → nut on top.
+1. Use M3 screws (flat head, isolated with tape) through backplate → heatsink height → fan hole → nut on top.
 1. Alternatively: use **adhesive fan mount tape** (3M VHB), or **cable zip ties**, to maintain the fan directly against heatsinks — simpler, no drilling.
 
 ### 🧴 Supplies
@@ -159,7 +148,7 @@ See [Fans](#fans) section above for a discussion about choosing 120mm fans. The 
 | Tool | Purpose | Recommendation |
 |---|---|---|
 | **Embroidery scissors** | Cutting pads precisely | **6.4cm (2.5") blade**, sharp point |
-| **Steel ruler** | Guiding cuts | 15cm length, metal |
+| **Ruler** | Guiding cuts | 15cm length, metal |
 | **Digital calipers** | Measuring die and VRAM | 0.01mm accuracy |
 | **Precision screwdriver set** | GPU disassembly | PH0, PH1 bits |
 | **Non-magnetic plastic spudger** | Prying connectors | iFixit style |
@@ -192,7 +181,7 @@ See [Fans](#fans) section above for a discussion about choosing 120mm fans. The 
 
 We have spare material for another full mod (in 3-5 years) or another GPU.*
 
-\* *Except the deshroud mod, depends on brand/SKU for VRAM pads height and die size.*
+\* *Except the deshroud 3D print. Depends on brand/SKU for VRAM pads height and die size.*
 
 ---
 
@@ -320,7 +309,7 @@ This lets screws not bottom out before applying target clamping pressure (30~40 
 ### Test 🎛️
 
 - burn it!
-- monitor temps
+- monitor temps (use `nvidia-smi -l 1` + [`1iis/vramtemp`](https://github.com/1iis/vramtemp) )
 - expect performance to be worse at first, then get better in time for the PTM7950.
 
 ## 🧭 Resources
@@ -352,6 +341,10 @@ This lets screws not bottom out before applying target clamping pressure (30~40 
 ## VRAM Thermal Pad Height per brand/SKU
 
 > src: https://search.brave.com/search?q=thermal+pads+height+for+rtx+3090+front+and+back&conversation=09100d530fc9b9e982e22c56903df607bbe7&summary=1
+
+> [!WARNING]
+> This section for convenience, from AI.
+> ⚠️ **Double-check for your brand/model before buying!!** ⚠️
 
 Thermal pad thickness for the NVIDIA RTX 3090 varies significantly by manufacturer model, with the **Founders Edition** being the most standardized.
 
