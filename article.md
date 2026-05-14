@@ -51,14 +51,16 @@ Complete thermal mod for Zotac RTX 3090 Trinity:
 | Temperature Range     | **℃**      | -40~180 | -40~180 | / |
 | Flame Rating          | **/**       | V-0 | V-0 | UL 94 |
 
-### 🌬️ 2. Deshroud Mod | Dual 120mm Fan
+### 🌬️ 2. Deshroud Mod
+
+We completely remove the stock shroud and its three tiny noisy fans, and replace it with a dual 120mm custom mod.
 
 | Component | Product | Specs | Quantity |
 |---|---|---|---|
 | **Fan bracket** | [Zotac Trinity RTX 3090<br>Bracket Mod Kit + Adapter Cable](https://www.etsy.com/listing/1311068645/zotac-trinity-rtx-3070-3080-3090-video) | Deshroud<br>Dual 120mm fans | 1
 | **Fans** | [ARCTIC P12 Max](https://www.amazon.fr/-/en/dp/B0CC8V6PHJ) | 3300 rpm<br>4,35 mmH₂O<br>81 cfm (137 m³/h) | 2
 
-#### Mod
+#### Mod | Fans bracket (3D print)
 
 ![heatsink-ext](/img/2619.7.0553.png)
 
@@ -69,7 +71,7 @@ This fan bracket mod kit Allows for the use of two 120mm x 25mm fans, with mount
 ![deshroud](/img/il_1588xN.4188446810_4xs8.webp) | ![deshroud](/img/il_1588xN.7603510144_p1te.webp)
 ---|---
 
-#### Fans
+#### Fans | 2× 120mm
 
 Recommended:
 
