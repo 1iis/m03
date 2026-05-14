@@ -66,7 +66,7 @@ We completely remove the stock shroud and its three tiny noisy fans, and replace
 
 ![heatsink-ext](/img/2619.7.0553_1.png)
 
-This fan bracket mod kit Allows for the use of two 120mm x 25mm fans, with mounting hardware that includes 8x 30mm M4 screws. Includes a PWM 4-pin fan adapter Y cable that uses a micro 4-pin connector designed to connect to the fan headers on the video card. 
+This fan bracket mod kit allows for the use of **two 120mm x 25mm fans**, with mounting hardware that includes 8x 30mm M4 screws. Includes a **PWM 4-pin fan adapter Y cable** that uses a micro 4-pin connector designed to connect to **the fan headers on the video card**. 
 
 ![deshroud](/img/il_1588xN.4188446810_4xs8.webp) | ![deshroud](/img/il_1588xN.7603510144_p1te.webp)
 ---|---
